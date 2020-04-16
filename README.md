@@ -6,4 +6,6 @@ tui库采用了[tcell](https://github.com/gdamore/tcell)
 
 ![go-lifegame](https://github.com/linuxsong/go-lifegame/blob/master/go-lifegame.gif)
 
+按esc或回车键可以退出程序
+
 
